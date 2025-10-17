@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Mini-Project1-React/', // 👈 importante: debe tener slash inicial y final
+  base: '/despliegue-1/', // 👈 importante: debe tener slash inicial y final
 })
